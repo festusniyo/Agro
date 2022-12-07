@@ -1,0 +1,2 @@
+<td colspan = "7" style="background-color: black; color: ;"> <center><strong>Copy Right &copy; S.A Campany Limited <?php echo date("Y"); ?>, All Rights Reserved. programmer(Niyongabo Festus)</strong> <center>
+	</td>

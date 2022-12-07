@@ -1,0 +1,97 @@
+<html>
+	<head>
+		<style type="text/css">
+			td{
+                
+			}
+		</style>
+		</head>
+	
+		<title>Agriculture</title>
+        <meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css"/>
+	
+	<body>
+<img src="images/campany.jpg" alt=""/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+you are not login(<a style="color: blue" href="login.php">login</a>)
+
+   
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<span class="fes"><img src="images/fes.jpg" alt="" /></span>
+						<h1><strong style="color: black">welcome to our website every things its okay</strong></h1>
+						<ul class="icons">
+							<li><a style="color: blue" href="#" class="icon style2 fa-twitter"><span class="label">Twitter></span></a></li>
+							<li><a style="color: blue" href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a style="color: blue" href="I'm on Instagram as @real1festus. Install the app to follow my photos and videos. https://instagram.com/download/?r=9144373536" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+							
+						  <li><a style="color: blue" href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
+
+				<!-- Main -->
+					<section id="main">
+
+						<!-- Thumbnails -->
+							<section class="thumbnails">
+								<div>
+									<a href="images/fulls/1.jpg">
+										<img src="images/thumbs/1.jpg" alt="" />
+										<h3 style="color: black">ikawa</h3>
+									</a>
+									<a href="images/fulls/2.jpg">
+										<img src="images/thumbs/2.jpg" alt="" />
+										<h3 style="color: black">ibigori</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/3.jpg">
+										<img src="images/thumbs/3.jpg" alt="" />
+										<h3 style="color: black">ibigori byumye</h3>
+									</a>
+									<a href="images/fulls/4.jpg">
+										<img src="images/thumbs/4.jpg" alt="" />
+										<h3 style="color: black">ibishyimbo</h3>
+									</a>
+									<a href="images/fulls/5.jpg">
+										<img src="images/thumbs/5.jpg" alt="" />
+										<h3 style="color: black">imyumbati</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/6.jpg">
+										<img src="images/thumbs/6.jpg" alt="" />
+										<h3 style="color: black">ibirayi</h3>
+									</a>
+									<a href="images/fulls/7.jpg">
+										<img src="images/thumbs/7.jpg" alt="" />
+										<h3 style="color: black">karoti</h3>
+									</a>
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+				<table><tr>
+				<?php
+				include("footer.php");
+				?></tr></table>
+
+			</div>
+
+		
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
